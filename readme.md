@@ -1,4 +1,4 @@
-# Tiny ERP by [atk]
+# Tiny vue project by [atk]
 This project is the general purpose tiny erp system powered by [Laravel](http://laravel.com).
 
 
