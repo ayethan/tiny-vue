@@ -1,5 +1,4 @@
-# Tiny ERP by [Trifinity](http://trifinitymyanmar.com)!
-
+# Tiny ERP by [atk]
 This project is the general purpose tiny erp system powered by [Laravel](http://laravel.com).
 
 
